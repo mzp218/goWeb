@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mszlu521/msgo"
+	"github.com/mzp218/goWeb/msgo"
 	"net/http"
 )
 
